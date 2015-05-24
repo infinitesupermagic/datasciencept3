@@ -17,7 +17,7 @@ The script run_analysis.R follows the procedure specified below:
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The finished product is a result.txt.
+The finished product is a results.txt.
 
 ##Script processes
 
