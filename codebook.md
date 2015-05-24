@@ -40,8 +40,8 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 The following were calculcated for subject and activity:
 
-mean(): Mean value
-std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 The variables are lowercased versons of the signals with mean and std. For example:
 tBodyAcc-X would become tbodyaccmeanx
