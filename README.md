@@ -23,13 +23,13 @@ The finished product is a result.txt.
 
 To satisfy the recs the script does the following:
 
-*import training and test data
-*row bind the 2 sets together
-*import activity and create column names appropriate for merging later
-*import features, fix column names and only take mean/std columns
-*only take rows that we care about and fix column names according to codebook
-*tidy data result set (mean over columns by factors subject and activity)
-*remove extra subject and activity columns that cannot be mean'd 
+* Import training and test data
+* Row bind the 2 sets together
+* Import activity and create column names appropriate for merging later
+* Import features, fix column names and only take mean/std columns
+* Only take rows that we care about and fix column names according to codebook
+* Tidy data result set (mean over columns by factors subject and activity)
+* Remove extra subject and activity columns that cannot be mean'd 
 
 ##Codebook
 
